@@ -19,11 +19,10 @@ Here are some ideas to get you started:
   <br><br>
   <samp>
     :wave: Hi! I'm Shivani.
-    <br>My current work focuses on enabling all of y'all to
-      <br><em>receive recognition</em> for the amazing things that
-    <br>you do in your software communities :sparkles:<br><br>
+    <br>I'm a second-year student at MIT-ADT pursuing
+      <br>my BTech in <em>Computer Science engineering.</em> I love to learn<br> new things. Writing code and watching it run properly makes me feel like a superhero.🦸‍♀️:sparkles:<br><br>
     <img src="images/InternetSurfing.gif" width="240px" align="center">
-    <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/pifafu">Twitter</a>
+    <br><br>
   </samp>
 </p>
 ### Connect with me:
