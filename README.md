@@ -32,14 +32,9 @@ Here are some ideas to get you started:
 <br />
 
  #### 📕 Blog Posts
-
-
 - [The Birth and Evolution of JavaScript](https://blog.codestrike.in/the-birth-and-evolution-of-javascript)
-
-
-
 <details>
-  <summary">:zap: GitHub Stats</summary>
+  <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shivanisorte&show_icons=true&hide_border=true" />
 
