@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ### I'm a second-year student at MIT-ADT pursuing B.tech in Computer Science Engineering.
 
+![Shivani Sorte](images/girl.gif)
 
 ### Connect with me:
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
