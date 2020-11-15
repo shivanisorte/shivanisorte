@@ -1,5 +1,4 @@
-## Hi there, I'm Shivani. 👋
-
+# Hi there, I'm Shivani. 👋
 <!--
 **shivanisorte/shivanisorte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,25 +14,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm a second-year student at MIT-ADT pursuing B.tech in Computer Science Engineering.
-
+## I'm a second-year student at MIT-ADT pursuing B.tech in Computer Science Engineering.
 ![Shivani Sorte](images/girl.gif)
-
-### Connect with me:
+## Connect with me:
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br />
 <br />
-
-
-### 📕 Blog Posts
-
+## 📕 Blog Posts
 
 - [The Birth and Evolution of JavaScript](https://blog.codestrike.in/the-birth-and-evolution-of-javascript)
-
-
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
