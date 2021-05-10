@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <samp>
     :wave: Hi! I'm Shivani.
     <br>I'm a second-year student at MIT-ADT pursuing my BTech in
-      <br> <em>Computer Science engineering.</em> I love to learn new things. Writing<br>code and watching it run properly makes me feel like a superhero.🦸‍♀️:sparkles:<br><br>
+      <br> <em>Computer Science engineering.</em> I love to learn new things. Writing<br>code makes me feel like a superhero.🦸‍♀️:sparkles:<br><br>
     <img src="images/InternetSurfing.gif" width="240px" align="center">
     <br><br>
   </samp>  
