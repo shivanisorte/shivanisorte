@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <br><br>
   <samp>
     :wave: Hi! I'm Shivani.
-    <br>I'm a third-year student at MIT-ADT pursuing my BTech in
+    <br>I'm a final-year student at MIT-ADT pursuing my BTech in
       <br> <em>Computer Science engineering.</em> I love to learn new things. Writing<br>code makes me feel like a superhero.🦸‍♀️:sparkles:<br><br>
     <img src="images/InternetSurfing.gif" width="240px" align="center">
     <br><br>
